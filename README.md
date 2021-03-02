@@ -1,5 +1,5 @@
-# Let'sTalk
-## <a href="https://kodluyoruz-3-hafta-search-app.vercel.app/">Link</a>
+# SearchApp
+## <a href="https://kodluyoruz-3-hafta-search-app.vercel.app/" target="_blank">Link</a>
 React & Unsplash Api.. Search App
 
 ### `git clone https://github.com/Bekir-Akok/FirebaseChatApp`
